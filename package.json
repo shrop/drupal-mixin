@@ -1,0 +1,11 @@
+{ "name": "drupal.mixin"
+, "version": "0.1.0"
+, "description": "Drupal development helpers."
+, "keywords": ["drupal", "php"]
+, "author": "Mark Shropshire <mdshrops@shropnet.net>"
+, "homepage": "http://mark.shropshires.net"
+, "repository": { "type": "git"
+                , "url": "https://github.com/shrop/drupal.chocmixin"
+                }
+, "license": "MIT"
+}
