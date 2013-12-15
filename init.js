@@ -1,3 +1,3 @@
-Hooks.addMenuItem("Run Coder Review", "cmd-ctrl-w", function () {
+Hooks.addMenuItem("Actions/Drupal/Coder Review", "", function () {
   Alert.show("Drupal!");
 });
