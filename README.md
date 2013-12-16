@@ -3,7 +3,7 @@
 Contains a number of helpers for Drupal development.
 
 ## Requirements
-* [Chocolat app](http://chocolatapp.com)
+* The tasty [Chocolat app](http://chocolatapp.com)
 * Some actions require a working Drupal install
 * Drush
   * Install Drush using the amazing Homebrew: `brew install drush` 
