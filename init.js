@@ -14,7 +14,6 @@ Hooks.addMenuItem("Actions/Drupal/Clear Drupal caches", "opt-cmd-x", function() 
       return false;
     }
     else {
-      console.log(dirPath);
       Alert.notify({
         title: "Drupal caches cleared!",
         body: "" + dirPath + ""
