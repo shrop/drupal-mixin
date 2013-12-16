@@ -1,4 +1,4 @@
-# Drupal Chocolat app mixin
+# Drupal Chocolat Mixin
 
 Contains a number of helpers for Drupal development.
 
