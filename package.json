@@ -2,16 +2,33 @@
   "name": "drupal",
   "version": "0.1.0",
   "description": "Drupal development helpers for Chocolat",
+  "homepage": "http://mark.shropshires.net",
   "main": "init.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/shrop/drupal.chocmixin.git"
   },
+  "author": {
+    "name": "Mark Shropshire",
+    "email": "mdshrops@shropnet.net",
+    "url": "http://mark.shropshires.net"
+  },
+  "contributors": [
+    {
+      "name": "Mark Shropshire",
+      "email": "mdshrops@shropnet.net",
+      "url": "http://mark.shropshires.net"
+    }
+  ],
   "keywords": [
+    "Chocolat",
     "drupal",
     "php"
   ],
-  "author": "Mark Shropshire <mdshrops@shropnet.net>",
-  "homepage": "http://mark.shropshires.net",
-  "license": "MIT"
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shrop/codebug.chocmixin/blob/master/LICENSE.md"
+    }
+  ]
 }
